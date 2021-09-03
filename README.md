@@ -1,9 +1,14 @@
 ### Tech Stack 👋
 <img src="https://img.shields.io/badge/Python-4479A1?style=flat-square&logo=Python&logoColor=yellow"/></a>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
+
+
 <!--
 **hoheer/hoheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
