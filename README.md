@@ -1,3 +1,4 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hoheer)](https://github.com/anuraghazra/github-readme-stats)
 ### Tech Stack 👋
 <img src="https://img.shields.io/badge/Python-4479A1?style=flat-square&logo=Python&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
