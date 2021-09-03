@@ -10,6 +10,9 @@
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
 
 
+- 🔭 I’m currently working on Seoul S-DOT Team 
+- 🌱 I’m currently learning Pandas, Algorithm
+
 <!--
 **hoheer/hoheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
