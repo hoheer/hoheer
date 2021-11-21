@@ -12,8 +12,7 @@
 <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>
 
 
-- 🔭 I’m currently working on Seoul S-DOT Team 
-- 🌱 I’m currently learning Pandas, Algorithm
+- 🌱 I’m currently learning Algorithm.
 
 
 
