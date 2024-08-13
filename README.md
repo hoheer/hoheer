@@ -1,7 +1,5 @@
 
 
-- 🌱 I’m currently working on NAVIEN.
-
 
 
 
